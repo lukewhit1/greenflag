@@ -72,7 +72,6 @@ public class CreateAccount extends AppCompatActivity {
                     etEmail.setCompoundDrawablesWithIntrinsicBounds(0, 0, 0, 0);
                     etEmail.setBackgroundResource(R.drawable.et_redborder);
                     btnNext.setEnabled(false);
-                    //TODO: borders
                 }
                 else {
                     validEmail = true;
