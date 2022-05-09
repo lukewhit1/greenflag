@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LukeWhitworthGreenFlag</string>
+    <string name="main_text">GreenFlag Customers can create an account to access</string>
+    <string name="car_health">Car health updates</string>
+    <string name="request_rescue">Request a rescue online</string>
+    <string name="policy_info">Policy Information</string>
+    <string name="create_str">Create an account</string>
+    <string name="email_address">Email address</string>
+    <string name="see_criteria_below">See criteria below</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="create_password">Create Password</string>
+    <string name="pwd_criteria">Your password should have a minimum of 8 characters and contain at least one number, one uppercase, and one lower case letter. You can use special characters.</string>
+    <string name="next_button">Next</string>
+    <string name="password_mismatch">Your passwords don\'t match</string>
+    <string name="invalid_email_address">Invalid email address</string>
+    <string name="invalid_pass">One of the passwords you entered wasn\'t valid</string>
+</resources>
